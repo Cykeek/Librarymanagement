@@ -1,0 +1,9 @@
+library\insertbooks.class
+com\librarymanagement\librarymanagement\JakartaRestConfiguration.class
+com\librarymanagement\librarymanagement\resources\JakartaEE10Resource.class
+admin\adminlogin.class
+code\databaseconnection.class
+library\returnedon.class
+library\issue.class
+admin\adminlogout.class
+library\BookRecord.class
